@@ -1,0 +1,6 @@
+{
+  "name": "Deal or No Deal",
+  "description": "A web-based recreation of the classic Deal or No Deal game show.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
